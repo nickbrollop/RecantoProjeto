@@ -1,0 +1,10 @@
+body {
+    background-color:#57b175;
+    padding-top: 15px;
+    padding-left: 40px;
+    padding-right: 15px;
+}
+
+.navbar.navbar-expand-lg a{
+    color: #ffffff !important;
+}
